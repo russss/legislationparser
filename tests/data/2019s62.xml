@@ -1,0 +1,1637 @@
+<?xml version="1.0"?>
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62" NumberOfProvisions="28" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+  <ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+    <dc:identifier>http://www.legislation.gov.uk/uksi/2019/62/made</dc:identifier>
+    <dc:title>The Human Medicines (Amendment) Regulations 2019</dc:title>
+    <dc:language>en</dc:language>
+    <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+    <dc:modified>2019-01-18</dc:modified>
+    <dc:subject scheme="SIheading">MEDICINES</dc:subject>
+    <dc:description>These Regulations amend the Human Medicines Regulations 2012 (&#x201C;the 2012 Regulations&#x201D;) in order to implement&#x2014;points 8, 9, 11 and 12 of Article 1 of Directive 2011/62/EU of the European Parliament and of the Council of 8 June 2011 amending Directive 2001/83/EC on the Community code relating to medicinal products for human use, as regards the prevention of the entry into the legal supply chain of falsified medicinal products (&#x201C;Directive 2011/62/EU&#x201D;);Commission Delegated Regulation (EU) 2016/161 of 2 October 2015 supplementing Directive 2001/83/EC of the European Parliament and of the Council by laying down detailed rules for the safety features appearing on the packaging of medicinal products for human use (&#x201C;the Delegated Regulation&#x201D;).</dc:description>
+    <atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2019/62/made/data.xml" type="application/xml"/>
+    <atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2019/62/resources" title="More Resources"/>
+    <atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2019/62/memorandum" title="Explanatory Memorandum"/>
+    <atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2019/62/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+    <atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2019/62/made" title="whole act"/>
+    <atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2019/62/introduction/made" title="introduction"/>
+    <atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2019/62/signature/made" title="signature"/>
+    <atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2019/62/note/made" title="note"/>
+    <atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2019/62/body/made" title="body"/>
+    <atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2019/62/made/data.rdf" title="RDF/XML"/>
+    <atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2019/62/made/data.akn" title="AKN"/>
+    <atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2019/62/made/data.xht" title="HTML snippet"/>
+    <atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2019/62/made/data.pdf" title="PDF"/>
+    <atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2019/62/made/data.html" title="HTML5 snippet"/>
+    <atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2019/62/pdfs/uksi_20190062_en.pdf" title="Original PDF"/>
+    <atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2019/62/contents/made" title="Table of Contents"/>
+    <ukm:SecondaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="secondary"/>
+        <ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+        <ukm:DocumentStatus Value="final"/>
+        <ukm:DocumentMinorType Value="regulation"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="2019"/>
+      <ukm:Number Value="62"/>
+      <ukm:Made Date="2019-01-14"/>
+      <ukm:Laid Date="2019-01-18" Class="UnitedKingdomParliament"/>
+      <ukm:ComingIntoForce>
+        <ukm:DateTime Date="2019-02-09"/>
+      </ukm:ComingIntoForce>
+      <ukm:ISBN Value="9780111178782"/>
+    </ukm:SecondaryMetadata>
+    <ukm:Notes>
+      <ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/notes"/>
+      <ukm:Alternatives>
+        <ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2019/62/pdfs/uksiem_20190062_en.pdf" Date="2019-01-18" Title="UK Explanatory Memorandum" Size="173637"/>
+      </ukm:Alternatives>
+    </ukm:Notes>
+    <ukm:TranspositionNotes>
+      <ukm:TranspositionNote URI="http://www.legislation.gov.uk/uksi/2019/62/pdfs/uksitn_20190062_en.pdf" Date="2019-01-18" Title="Transposition Note" Size="21667"/>
+    </ukm:TranspositionNotes>
+    <ukm:Alternatives>
+      <ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2019/62/pdfs/uksi_20190062_en.pdf" Date="2019-01-18" Size="82403"/>
+    </ukm:Alternatives>
+    <ukm:Statistics>
+      <ukm:TotalParagraphs Value="28"/>
+      <ukm:BodyParagraphs Value="28"/>
+      <ukm:ScheduleParagraphs Value="0"/>
+      <ukm:AttachmentParagraphs Value="0"/>
+      <ukm:TotalImages Value="0"/>
+    </ukm:Statistics>
+  </ukm:Metadata>
+  <Secondary>
+    <SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/introduction">
+      <Number>2019 No. 62</Number>
+      <SubjectInformation>
+        <Subject>
+          <Title>Medicines</Title>
+        </Subject>
+      </SubjectInformation>
+      <Title>The Human Medicines (Amendment) Regulations 2019</Title>
+      <MadeDate>
+        <Text>Made</Text>
+        <DateText>14th January 2019</DateText>
+      </MadeDate>
+      <LaidDate>
+        <Text>Laid before Parliament</Text>
+        <DateText>18th January 2019</DateText>
+      </LaidDate>
+      <ComingIntoForce>
+        <Text>Coming into force</Text>
+        <DateText>9th February 2019</DateText>
+      </ComingIntoForce>
+      <SecondaryPreamble>
+        <EnactingText>
+          <Para>
+            <Text>The Secretary of State and the Department of Health in Northern Ireland make the following Regulations. They do so in exercise of the powers conferred by section 2(2) and (5) of the European Communities Act 1972<FootnoteRef Ref="f00001"/>, having been designated for the purposes of section 2(2) of that Act in relation to medicinal products<FootnoteRef Ref="f00002"/>.</Text>
+          </Para>
+        </EnactingText>
+      </SecondaryPreamble>
+    </SecondaryPrelims>
+    <Body DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/body/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/body" NumberOfProvisions="28">
+      <P1group>
+        <Title>Citation and commencement</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/1" id="regulation-1">
+          <Pnumber>1</Pnumber>
+          <P1para>
+            <Text>These Regulations may be cited as the Human Medicines (Amendment) Regulations 2019 and come into force on 9th February 2019.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of the Human Medicines Regulations 2012</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/2" id="regulation-2">
+          <Pnumber>2</Pnumber>
+          <P1para>
+            <Text>The Human Medicines Regulations 2012<FootnoteRef Ref="f00003"/> are amended as follows.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of regulation 8 (general interpretation)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/3" id="regulation-3">
+          <Pnumber>3</Pnumber>
+          <P1para>
+            <Text>In regulation 8(1)<FootnoteRef Ref="f00004"/> at the appropriate places insert&#x2014;</Text>
+            <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+              <UnorderedList Decoration="none" Class="Definition">
+                <ListItem>
+                  <Para>
+                    <Text>&#x201C;care home&#x201D;&#x2014;</Text>
+                    <OrderedList Decoration="parens" Type="alpha">
+                      <ListItem>
+                        <Para>
+                          <Text>in relation to England, has the meaning given by section 3 of the Care Standards Act 2000<FootnoteRef Ref="f00005"/>;</Text>
+                        </Para>
+                      </ListItem>
+                      <ListItem>
+                        <Para>
+                          <Text>in relation to Wales, has the meaning given by paragraph 1 of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016<FootnoteRef Ref="f00006"/>;</Text>
+                        </Para>
+                      </ListItem>
+                      <ListItem>
+                        <Para>
+                          <Text>in relation to Scotland, has the meaning given by paragraph 2 of Schedule 12 to the Public Services Reform (Scotland) Act 2010<FootnoteRef Ref="f00007"/>; and</Text>
+                        </Para>
+                      </ListItem>
+                      <ListItem>
+                        <Para>
+                          <Text>in relation to Northern Ireland, means a nursing home as defined in article 11 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003<FootnoteRef Ref="f00008"/>;</Text>
+                        </Para>
+                      </ListItem>
+                    </OrderedList>
+                  </Para>
+                </ListItem>
+              </UnorderedList>
+            </BlockAmendment>
+            <AppendText>;</AppendText>
+            <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+              <UnorderedList Decoration="none" Class="Definition">
+                <ListItem>
+                  <Para>
+                    <Text>&#x201C;Commission Regulation 2016/161&#x201D; means Commission Delegated Regulation (<Acronym Expansion="European Union">EU</Acronym>) 2016/161 supplementing <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0083" id="c00001" Class="EuropeanUnionDirective" Year="2001" Number="0083">Directive 2001/83/EC</Citation> of the European Parliament and of the Council by laying down detailed rules for the safety features appearing on the packaging of medicinal products for human use<FootnoteRef Ref="f00009"/>;</Text>
+                  </Para>
+                </ListItem>
+              </UnorderedList>
+            </BlockAmendment>
+            <AppendText>;</AppendText>
+            <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+              <UnorderedList Decoration="none" Class="Definition">
+                <ListItem>
+                  <Para>
+                    <Text>&#x201C;healthcare institution&#x201D; has the meaning given by Article 3(2) of Commission Regulation 2016/161;</Text>
+                  </Para>
+                </ListItem>
+              </UnorderedList>
+            </BlockAmendment>
+            <AppendText>;</AppendText>
+            <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+              <UnorderedList Decoration="none" Class="Definition">
+                <ListItem>
+                  <Para>
+                    <Text>&#x201C;hospice&#x201D; means an institution whose primary function is the provision of palliative care to persons resident there who are suffering from a progressive disease in its final stages;</Text>
+                  </Para>
+                </ListItem>
+              </UnorderedList>
+            </BlockAmendment>
+            <AppendText>.</AppendText>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of regulation 36 (conditions for manufacturer&#x2019;s licence)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/4" id="regulation-4">
+          <Pnumber>4</Pnumber>
+          <P1para>
+            <Text>In regulation 36<FootnoteRef Ref="f00010"/>, after paragraph (3) insert&#x2014;</Text>
+            <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+              <P2>
+                <Pnumber>4</Pnumber>
+                <P2para>
+                  <Text>The requirements and obligations contained in a provision of Commission Regulation 2016/161 listed in paragraph (5) have effect as if they were provisions of a manufacturer&#x2019;s licence under this Part.</Text>
+                </P2para>
+              </P2>
+              <P2>
+                <Pnumber>5</Pnumber>
+                <P2para>
+                  <Text>The provisions mentioned in paragraph (4) are&#x2014;</Text>
+                  <P3>
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>Article 4 (composition of the unique identifier);</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>Article 5 (carrier of the unique identifier);</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>c</Pnumber>
+                    <P3para>
+                      <Text>Article 6 (quality of the printing of the two-dimensional barcode);</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>d</Pnumber>
+                    <P3para>
+                      <Text>Article 7 (human-readable format);</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>e</Pnumber>
+                    <P3para>
+                      <Text>Article 10 (verification of the safety features) insofar as it relates to manufacturers;</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>f</Pnumber>
+                    <P3para>
+                      <Text>Article 11 (verification of the authenticity of the unique identifier) insofar as it relates to manufacturers;</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>g</Pnumber>
+                    <P3para>
+                      <Text>Article 12 (unique identifiers which have been decommissioned);</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>h</Pnumber>
+                    <P3para>
+                      <Text>Article 13 (reversing the status of a decommissioned unique identifier) insofar as it relates to manufacturers;</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>i</Pnumber>
+                    <P3para>
+                      <Text>Article 14 (verification of the two-dimensional barcode);</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>j</Pnumber>
+                    <P3para>
+                      <Text>Article 15 (record keeping);</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>k</Pnumber>
+                    <P3para>
+                      <Text>Article 16 (verifications to be performed before removing or replacing the safety features);</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>l</Pnumber>
+                    <P3para>
+                      <Text>Article 17 (equivalent unique identifier); and</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>m</Pnumber>
+                    <P3para>
+                      <Text>Article 18 (actions to be taken in case of tampering or suspected falsification).</Text>
+                    </P3para>
+                  </P3>
+                </P2para>
+              </P2>
+              <P2>
+                <Pnumber>6</Pnumber>
+                <P2para>
+                  <Text>In distributing a medicinal product by way of wholesale dealing, the requirements and obligations contained in a provision of Commission Regulation 2016/161 listed in paragraph (7) shall apply to the holder of a manufacturer&#x2019;s licence and have effect as if they were provisions of the licence.</Text>
+                </P2para>
+              </P2>
+              <P2>
+                <Pnumber>7</Pnumber>
+                <P2para>
+                  <Text>The provisions mentioned in paragraph (6) are&#x2014;</Text>
+                  <P3>
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>Article 20 (verification of the authenticity of the unique identifier by wholesalers), subject to the exemption contained in Article 21 (derogations from Article 20(b));</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>Article 22 (decommissioning of unique identifiers by wholesalers); and</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>c</Pnumber>
+                    <P3para>
+                      <Text>Article 24 (actions to be taken by wholesalers in case of tampering or suspected falsification).</Text>
+                    </P3para>
+                  </P3>
+                </P2para>
+              </P2>
+            </BlockAmendment>
+            <AppendText>.</AppendText>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of Regulation 39 (further requirements for manufacturer&#x2019;s licence)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/5/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/5" id="regulation-5">
+          <Pnumber>5</Pnumber>
+          <P1para>
+            <Text>In regulation 39<FootnoteRef Ref="f00011"/>, in paragraph (8), after &#x201C;43(1), (2) and (5)&#x201D; insert &#x201C;, 43A&#x201D;.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of regulation 42 (conditions for wholesale dealer&#x2019;s licence)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/6/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/6" id="regulation-6">
+          <Pnumber>6</Pnumber>
+          <P1para>
+            <Text>In regulation 42<FootnoteRef Ref="f00012"/>, after paragraph (3) insert&#x2014;</Text>
+            <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+              <P2>
+                <Pnumber>4</Pnumber>
+                <P2para>
+                  <Text>The requirements and obligations contained in a provision of Commission Regulation 2016/161 listed in paragraph (5) have effect as if they were provisions of a wholesale dealer&#x2019;s licence under this Part.</Text>
+                </P2para>
+              </P2>
+              <P2>
+                <Pnumber>5</Pnumber>
+                <P2para>
+                  <Text>The provisions mentioned in paragraph (4) are&#x2014;</Text>
+                  <P3>
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>Article 10 (verification of the safety features) insofar as it relates to wholesalers;</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>Article 11 (verification of the authenticity of the unique identifier) insofar as it relates to wholesalers;</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>c</Pnumber>
+                    <P3para>
+                      <Text>Article 12 (unique identifiers which have been decommissioned);</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>d</Pnumber>
+                    <P3para>
+                      <Text>Article 13 (reversing the status of a decommissioned unique identifier) insofar as it relates to wholesalers;</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>e</Pnumber>
+                    <P3para>
+                      <Text>Article 20 (verification of the authenticity of the unique identifier), subject to the exemption contained in Article 21 (derogations from Article 20(b));</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>f</Pnumber>
+                    <P3para>
+                      <Text>Article 22 (decommissioning of unique identifiers); and</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>g</Pnumber>
+                    <P3para>
+                      <Text>Article 24 (actions to be taken in case of tampering or suspected falsification).</Text>
+                    </P3para>
+                  </P3>
+                </P2para>
+              </P2>
+            </BlockAmendment>
+            <AppendText>.</AppendText>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Insertion of regulation 43A (requirement for wholesale dealers to decommission the unique identifier)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/7/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/7" id="regulation-7">
+          <Pnumber>7</Pnumber>
+          <P1para>
+            <Text>After regulation 43 (obligations of licence holder)<FootnoteRef Ref="f00013"/>, insert&#x2014;</Text>
+            <BlockAmendment Context="unknown" TargetClass="secondary" TargetSubClass="unknown" Format="double">
+              <P1group>
+                <Title>Requirement for wholesale dealers to decommission the unique identifier</Title>
+                <P1>
+                  <Pnumber PuncAfter=".">43A</Pnumber>
+                  <P1para>
+                    <P2>
+                      <Pnumber>1</Pnumber>
+                      <P2para>
+                        <Text>This regulation applies only to medicinal products that are required to bear safety features pursuant to Article 54a of the 2001 Directive.</Text>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>2</Pnumber>
+                      <P2para>
+                        <Text>Before supplying a medicinal product to a person in the United Kingdom who falls within one of the classes specified in paragraph (3), the licence holder must verify the safety features and decommission the unique identifier of that medicinal product in accordance with the requirements laid down in Commission Regulation 2016/161.</Text>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>3</Pnumber>
+                      <P2para>
+                        <Text>The classes of person mentioned in paragraph (2) are&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>persons authorised or entitled to supply medicinal products to the public who do not operate within a healthcare institution or within a pharmacy;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>persons who receive the product for the purpose of selling, supplying or administering it as a veterinary medicinal product;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>c</Pnumber>
+                          <P3para>
+                            <Text>dentists;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>d</Pnumber>
+                          <P3para>
+                            <Text>registered optometrists or registered dispensing opticians;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>e</Pnumber>
+                          <P3para>
+                            <Text>registered paramedics;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>f</Pnumber>
+                          <P3para>
+                            <Text>persons who are members of Her Majesty&#x2019;s armed forces;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>g</Pnumber>
+                          <P3para>
+                            <Text>a police force in England, Wales or Scotland or the Police Service of Northern Ireland;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>h</Pnumber>
+                          <P3para>
+                            <Text>government institutions maintaining stocks of medicinal products for the purposes of civil protection or disaster control;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>i</Pnumber>
+                          <P3para>
+                            <Text>universities or other institutions concerned with higher education or research, other than healthcare institutions;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>j</Pnumber>
+                          <P3para>
+                            <Text>a prison service;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>k</Pnumber>
+                          <P3para>
+                            <Text>persons carrying on the business of a school;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>l</Pnumber>
+                          <P3para>
+                            <Text>care homes;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>m</Pnumber>
+                          <P3para>
+                            <Text>hospices.</Text>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                  </P1para>
+                </P1>
+              </P1group>
+            </BlockAmendment>
+            <AppendText>.</AppendText>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Insertion of regulation 94A (offences relating to Commission Regulation 2016/161)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/8/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/8" id="regulation-8">
+          <Pnumber>8</Pnumber>
+          <P1para>
+            <Text>After regulation 94 (failure to submit report to EMA), insert&#x2014;</Text>
+            <BlockAmendment Context="unknown" TargetSubClass="unknown" Format="double" TargetClass="secondary">
+              <Pblock>
+                <Title>Offences relating to the safety features appearing on the packaging of medicinal products</Title>
+                <P1group>
+                  <Title>Offences relating to Commission Regulation 2016/161</Title>
+                  <P1>
+                    <Pnumber PuncAfter=".">94A</Pnumber>
+                    <P1para>
+                      <P2>
+                        <Pnumber>1</Pnumber>
+                        <P2para>
+                          <Text>The holder of a marketing authorisation or parallel import licence, or a parallel distributor, is guilty of an offence if the holder fails to comply with a requirement or obligation contained in a provision of Commission Regulation 2016/161 listed in paragraph (2).</Text>
+                        </P2para>
+                      </P2>
+                      <P2>
+                        <Pnumber>2</Pnumber>
+                        <P2para>
+                          <Text>The provisions mentioned in paragraph (1) are&#x2014;</Text>
+                          <P3>
+                            <Pnumber>a</Pnumber>
+                            <P3para>
+                              <Text>Article 33 (uploading of information in the repositories system);</Text>
+                            </P3para>
+                          </P3>
+                          <P3>
+                            <Pnumber>b</Pnumber>
+                            <P3para>
+                              <Text>Article 40 (products recalled, withdrawn or stolen);</Text>
+                            </P3para>
+                          </P3>
+                          <P3>
+                            <Pnumber>c</Pnumber>
+                            <P3para>
+                              <Text>Article 41 (products to be supplied as free samples); and</Text>
+                            </P3para>
+                          </P3>
+                          <P3>
+                            <Pnumber>d</Pnumber>
+                            <P3para>
+                              <Text>Article 42 (removal of unique identifiers from the repositories system).</Text>
+                            </P3para>
+                          </P3>
+                        </P2para>
+                      </P2>
+                      <P2>
+                        <Pnumber>3</Pnumber>
+                        <P2para>
+                          <Text>In this regulation &#x201C;parallel distributor&#x201D; means a person who imports from another <Acronym Expansion="European Economic Area">EEA</Acronym> state a product which has been granted a marketing authorisation under Regulation <Citation URI="http://www.legislation.gov.uk/european/regulation/2004/0726" id="c00002" Class="EuropeanUnionRegulation" Year="2004" Number="0726">(EC) No 726/2004</Citation> and in relation to which that person is not the holder of marketing authorisation, Article 126a authorisation, certificate of registration or a traditional herbal registration.</Text>
+                        </P2para>
+                      </P2>
+                    </P1para>
+                  </P1>
+                </P1group>
+              </Pblock>
+            </BlockAmendment>
+            <AppendText>.</AppendText>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Insertion of regulation 226A (sale <Abbreviation Expansion="Et cetera" xml:lang="la">etc</Abbreviation> by a pharmacist in accordance with a serious shortage protocol)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/9/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/9" id="regulation-9">
+          <Pnumber>9</Pnumber>
+          <P1para>
+            <Text>After regulation 226 (emergency sale etc by pharmacists: pandemic disease), insert&#x2014;</Text>
+            <BlockAmendment Context="unknown" TargetClass="secondary" TargetSubClass="unknown" Format="double">
+              <P1group>
+                <Title>Sale etc by a pharmacist in accordance with a serious shortage protocol</Title>
+                <P1>
+                  <Pnumber PuncAfter=".">226A</Pnumber>
+                  <P1para>
+                    <P2>
+                      <Pnumber>1</Pnumber>
+                      <P2para>
+                        <Text>Regulation 214(1) does not apply to the sale or supply of a prescription only medicine by a person lawfully conducting a retail pharmacy business if conditions A, B and C are met.</Text>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>2</Pnumber>
+                      <P2para>
+                        <Text>Condition A is that the prescription only medicine is sold or supplied for the purpose of being administered to a person in accordance with a serious shortage protocol (SSP).</Text>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>3</Pnumber>
+                      <P2para>
+                        <Text>Condition B is that the requirements of the SSP are satisfied in respect of to whom, and subject to what conditions, the prescription only medicine may be sold or supplied for the purpose of being administered.</Text>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>4</Pnumber>
+                      <P2para>
+                        <Text>Condition C is that the sale or supply of the prescription only medicine is by or under the supervision of a pharmacist who is of the opinion, in the exercise of his or her professional skill and judgement, that&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>in a case to which paragraph (5)(b)(i) applies, the sale or supply of a different strength, quantity or pharmaceutical form of the prescription only medicine to the strength, quantity or pharmaceutical form of the prescription only medicine ordered by the prescriber is reasonable and appropriate; or</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>in a case to which paragraph (5)(b)(ii) applies, the sale or supply of&#x2014;</Text>
+                            <P4>
+                              <Pnumber>i</Pnumber>
+                              <P4para>
+                                <Text>a prescription only medicine other than the prescription only medicine ordered by the prescriber is reasonable, and</Text>
+                              </P4para>
+                            </P4>
+                            <P4>
+                              <Pnumber>ii</Pnumber>
+                              <P4para>
+                                <Text>the substituted prescription only medicine, in accordance with the directions for use that he or she specifies, is appropriate.</Text>
+                              </P4para>
+                            </P4>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>5</Pnumber>
+                      <P2para>
+                        <Text>For the purposes of this regulation, a SSP is a written protocol that&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>is issued by the Ministers (either of them acting alone or both of them acting jointly) in circumstances where the United Kingdom or any part of the United Kingdom is, in the opinion of the Ministers (either of them forming the opinion alone or both of them forming the opinion jointly), experiencing or may experience a serious shortage of a prescription only medicine or prescription only medicines of a specified description;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>provides for the sale or supply by or under the supervision of a pharmacist and subject to such conditions as may be specified in the SSP&#x2014;</Text>
+                            <P4>
+                              <Pnumber>i</Pnumber>
+                              <P4para>
+                                <Text>of a different strength, quantity or pharmaceutical form of the prescription only medicine to the strength, quantity or pharmaceutical form ordered by the prescriber, or</Text>
+                              </P4para>
+                            </P4>
+                            <P4>
+                              <Pnumber>ii</Pnumber>
+                              <P4para>
+                                <Text>of a prescription only medicine other than the prescription only medicine ordered by the prescriber;</Text>
+                              </P4para>
+                            </P4>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>c</Pnumber>
+                          <P3para>
+                            <Text>provides, in a case to which sub-paragraph (b)(ii) applies, that the other prescription only medicine is to be&#x2014;</Text>
+                            <P4>
+                              <Pnumber>i</Pnumber>
+                              <P4para>
+                                <Text>a generic version of the prescription only medicine being substituted, or that both products are generic versions of another prescription only medicine,</Text>
+                              </P4para>
+                            </P4>
+                            <P4>
+                              <Pnumber>ii</Pnumber>
+                              <P4para>
+                                <Text>in the case of a biological medicinal product, a similar medicinal product to the prescription only medicine being substituted, or that both products are similar medicinal products to another biological medicinal product, or</Text>
+                              </P4para>
+                            </P4>
+                            <P4>
+                              <Pnumber>iii</Pnumber>
+                              <P4para>
+                                <Text>a prescription only medicine that has a similar therapeutic effect to the prescription only medicine being substituted; and</Text>
+                              </P4para>
+                            </P4>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>d</Pnumber>
+                          <P3para>
+                            <Text>specifies the period for which, and the parts of the United Kingdom (which may be all of the United Kingdom) in which, the protocol is to have effect.</Text>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>6</Pnumber>
+                      <P2para>
+                        <Text>As soon as is reasonably practical after the end of one year beginning on the day on which the first protocol issued under this regulation has effect, the Ministers must&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>review the operation of this regulation with a view to evaluating whether there have been any adverse consequences for the market in prescription only medicines or for patient safety as a consequence of the operation of this regulation;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>set out the conclusions of the review in a report; and</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>c</Pnumber>
+                          <P3para>
+                            <Text>publish the report.</Text>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                  </P1para>
+                </P1>
+              </P1group>
+            </BlockAmendment>
+            <AppendText>.</AppendText>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Insertion of regulations 255A to 255C</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/10/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/10" id="regulation-10">
+          <Pnumber>10</Pnumber>
+          <P1para>
+            <Text>After regulation 255 (offences relating to dealings with medicinal products), insert&#x2014;</Text>
+            <BlockAmendment Context="unknown" TargetClass="secondary" TargetSubClass="unknown" Format="double">
+              <P1group>
+                <Title>Enforcement notices relating to Commission Regulation 2016/161: persons authorised to supply medicinal products to the public</Title>
+                <P1>
+                  <Pnumber PuncAfter=".">255A</Pnumber>
+                  <P1para>
+                    <P2>
+                      <Pnumber>1</Pnumber>
+                      <P2para>
+                        <Text>This regulation applies to a person who, in the course of a business carried on by that person, sells or supplies, offers to sell or supply, or possesses for the purpose of sale or supply, a medicinal product that is required by Article 54a of the 2001 Directive to bear safety features.</Text>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>2</Pnumber>
+                      <P2para>
+                        <Text>If an enforcement authority has objective grounds for considering that a person to whom this regulation applies has contravened a provision of Commission Regulation 2016/161 listed in paragraph (4), the enforcement authority may serve upon that person a notice in writing (referred to in this Regulation as an &#x201C;enforcement notice&#x201D;)&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>informing that person of the authority&#x2019;s grounds for considering that the person has contravened one or more of those provisions;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>specifying the relevant provisions;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>c</Pnumber>
+                          <P3para>
+                            <Text>specifying the measures which the person must take in order to ensure that the contravention does not continue or, as the case may be, does not recur;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>d</Pnumber>
+                          <P3para>
+                            <Text>requiring the person to take those measures, within such period as may be specified in the notice;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>e</Pnumber>
+                          <P3para>
+                            <Text>warning the person that that a failure to comply with the enforcement notice constitutes an offence under paragraph (5) and that further action may be taken in respect of the contravention unless the requirements specified in the notice are met.</Text>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>3</Pnumber>
+                      <P2para>
+                        <Text>An enforcement notice may include directions as to the measures to be taken by the person on whom the notice is served to ensure that the contravention does not continue or, as the case may be, does not recur, including the different ways of securing compliance.</Text>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>4</Pnumber>
+                      <P2para>
+                        <Text>The provisions mentioned in paragraph (2) are&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>Article 10 (verification of the safety features) insofar as it relates to persons authorised or entitled to supply medicinal products to the public;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>Article 11 (verification of the authenticity of the unique identifier) insofar as it relates to persons authorised or entitled to supply medicinal products to the public;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>c</Pnumber>
+                          <P3para>
+                            <Text>Article 12 (unique identifiers which have been decommissioned);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>d</Pnumber>
+                          <P3para>
+                            <Text>Article 13 (reversing the status of a decommissioned unique identifier) insofar as it relates to persons authorised or entitled to supply medicinal products to the public;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>e</Pnumber>
+                          <P3para>
+                            <Text>Article 25 (obligations of persons authorised or entitled to supply medicinal products to the public), subject to the exemptions contained in Article 26 (derogations from Article 25);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>f</Pnumber>
+                          <P3para>
+                            <Text>Article 27 (obligations when applying the derogations);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>g</Pnumber>
+                          <P3para>
+                            <Text>Article 28 (obligations when supplying only part of a pack);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>h</Pnumber>
+                          <P3para>
+                            <Text>Article 29 (obligations in case of inability to verify the authenticity and decommission the unique identifier); and</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>i</Pnumber>
+                          <P3para>
+                            <Text>Article 30 (actions to be taken by persons authorised or entitled to supply medicinal products to the public in case of suspected falsification).</Text>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>5</Pnumber>
+                      <P2para>
+                        <Text>A person is guilty of an offence if, without reasonable excuse, the person fails to comply with an enforcement notice served upon them under paragraph (2).</Text>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>6</Pnumber>
+                      <P2para>
+                        <Text>A person guilty of an offence under paragraph (5) is liable&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>on summary conviction to a fine; or</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>on conviction on indictment to a fine, to imprisonment for a term not exceeding two years, or to both.</Text>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                  </P1para>
+                </P1>
+              </P1group>
+              <P1group>
+                <Title>Exception to Article 25 of Commission Regulation 2016/161: health care institutions</Title>
+                <P1>
+                  <Pnumber PuncAfter=".">255B</Pnumber>
+                  <P1para>
+                    <Text>Article 25(1) of Commission Regulation 2016/161 does not apply to a person authorised or entitled to supply medicinal products to the public if&#x2014;</Text>
+                    <P3>
+                      <Pnumber>a</Pnumber>
+                      <P3para>
+                        <Text>the person authorised or entitled to supply medicinal products to the public is operating within a healthcare institution;</Text>
+                      </P3para>
+                    </P3>
+                    <P3>
+                      <Pnumber>b</Pnumber>
+                      <P3para>
+                        <Text>the person authorised or entitled to supply medicinal products to the public obtains the medicinal product bearing the unique identifier through a wholesaler belonging to the same legal entity as the healthcare institution;</Text>
+                      </P3para>
+                    </P3>
+                    <P3>
+                      <Pnumber>c</Pnumber>
+                      <P3para>
+                        <Text>the wholesaler that supplies the product to the healthcare institution has verified the safety features and decommissioned the unique identifier in accordance with the requirements laid down in Commission Regulation 2016/161;</Text>
+                      </P3para>
+                    </P3>
+                    <P3>
+                      <Pnumber>d</Pnumber>
+                      <P3para>
+                        <Text>no sale of the medicinal product takes place between the wholesaler supplying the product and that healthcare institution; and</Text>
+                      </P3para>
+                    </P3>
+                    <P3>
+                      <Pnumber>e</Pnumber>
+                      <P3para>
+                        <Text>the medicinal product is supplied to the public within that healthcare institution.</Text>
+                      </P3para>
+                    </P3>
+                  </P1para>
+                </P1>
+              </P1group>
+              <P1group>
+                <Title>Offences relating to Commission Regulation 2016/161: management of the repository system</Title>
+                <P1>
+                  <Pnumber PuncAfter=".">255C</Pnumber>
+                  <P1para>
+                    <P2>
+                      <Pnumber>1</Pnumber>
+                      <P2para>
+                        <Text>A legal entity established to set up and manage the repositories system pursuant to Article 31 of Commission Regulation 2016/161 is guilty of an offence if the legal entity fails to comply with a requirement or obligation contained in a provision of Commission Regulation 2016/161 listed in paragraph (2).</Text>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>2</Pnumber>
+                      <P2para>
+                        <Text>The provisions mentioned in paragraph (1) are&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>Article 31 (establishment of the repositories system);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>Article 32 (structure of the repositories system);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>c</Pnumber>
+                          <P3para>
+                            <Text>Article 33 (uploading of information in the repositories system);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>d</Pnumber>
+                          <P3para>
+                            <Text>Article 34 (functioning of the hub);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>e</Pnumber>
+                          <P3para>
+                            <Text>Article 35 (characteristics of the repositories system);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>f</Pnumber>
+                          <P3para>
+                            <Text>Article 36 (operations of the repositories system);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>Article 37 (obligations of legal entities establishing and managing a repository which is part of the repositories system);</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>c</Pnumber>
+                          <P3para>
+                            <Text>Article 38 (data protection and data ownership); and</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>d</Pnumber>
+                          <P3para>
+                            <Text>Article 39 (access by national competent authorities).</Text>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>3</Pnumber>
+                      <P2para>
+                        <Text>A legal entity guilty of an offence under paragraph (1) is liable on summary conviction, or on conviction on indictment, to a fine.</Text>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>4</Pnumber>
+                      <P2para>
+                        <Text>A person guilty of an offence under paragraph (1) by virtue of regulation 338 is liable&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>on summary conviction to a fine; or</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>on conviction on indictment to a fine, to imprisonment for a term not exceeding two years, or to both.</Text>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                  </P1para>
+                </P1>
+              </P1group>
+            </BlockAmendment>
+            <AppendText>.</AppendText>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Insertion of regulation 257A and 257B</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/11/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/11" id="regulation-11">
+          <Pnumber>11</Pnumber>
+          <P1para>
+            <Text>After regulation 257 (packaging requirements: general), insert&#x2014;</Text>
+            <BlockAmendment Context="unknown" TargetClass="secondary" TargetSubClass="unknown" Format="double">
+              <P1group>
+                <Title>Packaging Requirements: medicinal products required to bear safety features</Title>
+                <P1>
+                  <Pnumber PuncAfter=".">257A</Pnumber>
+                  <P1para>
+                    <P2>
+                      <Pnumber>1</Pnumber>
+                      <P2para>
+                        <Text>The information specified in paragraph 18A of Schedule 24 must not be removed or covered, either fully or partially, unless the following conditions are met&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>a person who is the holder of a manufacturer&#x2019;s licence verifies, prior to partially or fully removing or covering the features, that the medicinal product concerned is authentic and that it has not been tampered with;</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>the holder of the manufacturer&#x2019;s licence replaces the features with ones which are equivalent as regards the possibility to verify the authenticity, identification and to provide evidence of tampering of the medicinal product; and</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>c</Pnumber>
+                          <P3para>
+                            <Text>the replacement of the features is conducted in accordance with the applicable principles and guidelines for good manufacturing practice set out in the Good Manufacturing Practice Directive.</Text>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>2</Pnumber>
+                      <P2para>
+                        <Text>For the purposes of paragraph (1)(b), the features shall be considered equivalent if they&#x2014;</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>comply with the requirements set out in Commission Regulation 2016/161; and</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>are equally effective in enabling the verification of authenticity and identification of the medicinal product and in providing evidence of tampering with the medicinal product.</Text>
+                          </P3para>
+                        </P3>
+                      </P2para>
+                    </P2>
+                    <P2>
+                      <Pnumber>3</Pnumber>
+                      <P2para>
+                        <Text>In performing the activities referred to in paragraph (1), the holder of a manufacturer&#x2019;s licence shall be regarded as a producer for the purposes of the Consumer Protection Act 1987<FootnoteRef Ref="f00014"/>.</Text>
+                      </P2para>
+                    </P2>
+                  </P1para>
+                </P1>
+              </P1group>
+              <P1group>
+                <Title>Transitional Arrangements</Title>
+                <P1>
+                  <Pnumber PuncAfter=".">257B</Pnumber>
+                  <P1para>
+                    <Text>The information specified in paragraph 18A of Schedule 24 does not need to appear on the packaging of a medicinal product released for sale or distribution before 9 February 2019, unless the product has been repackaged or relabelled after that date.</Text>
+                  </P1para>
+                </P1>
+              </P1group>
+            </BlockAmendment>
+            <AppendText>.</AppendText>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of regulation 268 (enforcement relating to packaging and package leaflets: holder of authorisation etc)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/12/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/12" id="regulation-12">
+          <Pnumber>12</Pnumber>
+          <P1para>
+            <Text>In regulation 268(2)(a), after &#x201C;of this Part&#x201D;, insert &#x201C;, Article 9 of Commission Regulation 2016/161&#x201D;.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of regulation 269 (offences relating to packaging and package leaflets: other persons)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/13/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/13" id="regulation-13">
+          <Pnumber>13</Pnumber>
+          <P1para>
+            <Text>In regulation 269(2)(a), after &#x201C;of this Part&#x201D;, insert &#x201C;, Article 9 of Commission Regulation 2016/161&#x201D;.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of regulation 323 (enforcement in England, Wales and Scotland)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/14/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/14" id="regulation-14">
+          <Pnumber>14</Pnumber>
+          <P1para>
+            <Text>In regulation 323&#x2014;</Text>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/14/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/14/a" id="regulation-14-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>in paragraph (3)&#x2014;</Text>
+                <P4 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/14/a/i/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/14/a/i" id="regulation-14-a-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>in sub-paragraph (b) omit &#x201C;and&#x201D;, and</Text>
+                  </P4para>
+                </P4>
+                <P4 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/14/a/ii/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/14/a/ii" id="regulation-14-a-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>after sub-paragraph (c) insert&#x2014;</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P3para>
+                        <Text>and</Text>
+                      </P3para>
+                      <P3>
+                        <Pnumber>d</Pnumber>
+                        <P3para>
+                          <Text>regulation 255A (enforcement notices relating to Commission Regulation 2016/161: persons authorised to supply medicinal products to the public).</Text>
+                        </P3para>
+                      </P3>
+                    </BlockAmendment>
+                    <AppendText>; and</AppendText>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/14/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/14/b" id="regulation-14-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>after paragraph (4) insert&#x2014;</Text>
+                <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                  <P2>
+                    <Pnumber>4A</Pnumber>
+                    <P2para>
+                      <Text>Arrangements made with the General Pharmaceutical Council under paragraph (2)(a) in relation to regulation 255A are to be limited to the enforcement of that provision in respect of medicinal products sold or supplied, or offered for sale or supply, from premises that are registered pharmacies.</Text>
+                    </P2para>
+                  </P2>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P3para>
+            </P3>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of regulation 327 (powers of inspection, sampling and seizure)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/15/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/15" id="regulation-15">
+          <Pnumber>15</Pnumber>
+          <P1para>
+            <Text>In regulation 327<FootnoteRef Ref="f00015"/>&#x2014;</Text>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/15/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/15/a" id="regulation-15-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>after sub-paragraph (2)(g) insert&#x2014;</Text>
+                <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                  <P3>
+                    <Pnumber>h</Pnumber>
+                    <P3para>
+                      <Text>information and documents relating to compliance with the requirements of Commission Regulation 2016/161C.</Text>
+                    </P3para>
+                  </P3>
+                </BlockAmendment>
+                <AppendText>;</AppendText>
+              </P3para>
+            </P3>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/15/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/15/b" id="regulation-15-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>after paragraph (4) insert&#x2014;</Text>
+                <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                  <P2>
+                    <Pnumber>4A</Pnumber>
+                    <P2para>
+                      <Text>The inspector may for the purposes specified in paragraph (1) require a legal entity established to set up and manage the repositories system pursuant to Article 31 of Commission Regulation 2016/161, or a person employed in connection with such a entity, to produce information or documents relating to the repositories system which are in the entity&#x2019;s possession or under the entity&#x2019;s control.</Text>
+                    </P2para>
+                  </P2>
+                </BlockAmendment>
+                <AppendText>;</AppendText>
+              </P3para>
+            </P3>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/15/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/15/c" id="regulation-15-c">
+              <Pnumber>c</Pnumber>
+              <P3para>
+                <Text>in sub-paragraph (5)(a), for &#x201C;or (g)&#x201D; substitute &#x201C;, (g) or (h);&#x201D;; and</Text>
+              </P3para>
+            </P3>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/15/d/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/15/d" id="regulation-15-d">
+              <Pnumber>d</Pnumber>
+              <P3para>
+                <Text>in sub-paragraph (5)(b), after &#x201C;paragraph (4)&#x201D; insert &#x201C;or (4A)&#x201D;.</Text>
+              </P3para>
+            </P3>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of regulation 346 (Secretary of State to carry out a review of certain provisions)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16" id="regulation-16">
+          <Pnumber>16</Pnumber>
+          <P1para>
+            <Text>In regulation 346(2)<FootnoteRef Ref="f00016"/>&#x2014;</Text>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16/a" id="regulation-16-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>in sub-paragraph (c)&#x2014;</Text>
+                <P4 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/a/i/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16/a/i" id="regulation-16-a-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>after paragraph (ii) insert&#x2014;</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P4>
+                        <Pnumber>iia</Pnumber>
+                        <P4para>
+                          <Text>36(4) to (7),</Text>
+                        </P4para>
+                      </P4>
+                    </BlockAmendment>
+                    <AppendText>;</AppendText>
+                  </P4para>
+                </P4>
+                <P4 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/a/ii/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16/a/ii" id="regulation-16-a-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>after paragraph (iii) insert&#x2014;</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P4>
+                        <Pnumber>iiia</Pnumber>
+                        <P4para>
+                          <Text>42(4) and (5),</Text>
+                        </P4para>
+                      </P4>
+                    </BlockAmendment>
+                    <AppendText>;</AppendText>
+                  </P4para>
+                </P4>
+                <P4 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/a/iii/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16/a/iii" id="regulation-16-a-iii">
+                  <Pnumber>iii</Pnumber>
+                  <P4para>
+                    <Text>after paragraph (iv) insert&#x2014;</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P4>
+                        <Pnumber>iva</Pnumber>
+                        <P4para>
+                          <Text>43A,</Text>
+                        </P4para>
+                      </P4>
+                    </BlockAmendment>
+                    <AppendText>;</AppendText>
+                  </P4para>
+                </P4>
+                <P4 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/a/iv/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16/a/iv" id="regulation-16-a-iv">
+                  <Pnumber>iv</Pnumber>
+                  <P4para>
+                    <Text>after paragraph (xix) insert&#x2014;</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P4>
+                        <Pnumber>xixa</Pnumber>
+                        <P4para>
+                          <Text>94A,</Text>
+                        </P4para>
+                      </P4>
+                    </BlockAmendment>
+                    <AppendText>;</AppendText>
+                  </P4para>
+                </P4>
+                <P4 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/a/v/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16/a/v" id="regulation-16-a-v">
+                  <Pnumber>v</Pnumber>
+                  <P4para>
+                    <Text>after paragraph (xxviiiea) insert&#x2014;</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P4>
+                        <Pnumber>xxviiieb</Pnumber>
+                        <P4para>
+                          <Text>226A,</Text>
+                        </P4para>
+                      </P4>
+                    </BlockAmendment>
+                    <AppendText>; and</AppendText>
+                  </P4para>
+                </P4>
+                <P4 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/a/vi/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16/a/vi" id="regulation-16-a-vi">
+                  <Pnumber>vi</Pnumber>
+                  <P4para>
+                    <Text>after paragraph (xxviiih) insert&#x2014;</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P4>
+                        <Pnumber>xxviiii</Pnumber>
+                        <P4para>
+                          <Text>255A to 255C,</Text>
+                        </P4para>
+                      </P4>
+                      <P4>
+                        <Pnumber>xxviiij</Pnumber>
+                        <P4para>
+                          <Text>257A,</Text>
+                        </P4para>
+                      </P4>
+                    </BlockAmendment>
+                    <AppendText>; and</AppendText>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16/b" id="regulation-16-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>in sub-paragraph (d)&#x2014;</Text>
+                <P4 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/b/i/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16/b/i" id="regulation-16-b-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>after paragraph (i) insert&#x2014;</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P4>
+                        <Pnumber>ia</Pnumber>
+                        <P4para>
+                          <Text>7 paragraph 12(c),</Text>
+                        </P4para>
+                      </P4>
+                    </BlockAmendment>
+                    <AppendText>; and</AppendText>
+                  </P4para>
+                </P4>
+                <P4 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/16/b/ii/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/16/b/ii" id="regulation-16-b-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>after paragraph (ivaa) insert&#x2014;</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P4>
+                        <Pnumber>ivab</Pnumber>
+                        <P4para>
+                          <Text>24 paragraph 18A,</Text>
+                        </P4para>
+                      </P4>
+                    </BlockAmendment>
+                    <AppendText>.</AppendText>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of Schedule 7 (qualified persons)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/17/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/17" id="regulation-17">
+          <Pnumber>17</Pnumber>
+          <P1para>
+            <Text>In Schedule 7, in paragraph 12&#x2014;</Text>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/17/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/17/a" id="regulation-17-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>in sub-paragraph (a) omit &#x201C;and&#x201D;; and</Text>
+              </P3para>
+            </P3>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/17/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/17/b" id="regulation-17-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>after sub-paragraph (b) insert&#x2014;</Text>
+                <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                  <P3para>
+                    <Text>and</Text>
+                  </P3para>
+                  <P3>
+                    <Pnumber>c</Pnumber>
+                    <P3para>
+                      <Text>in the case of medicinal products, other than radiopharmaceuticals, that are required to bear safety features pursuant to Article 54a of the 2001 Directive and not intended to be exported to a third country, that the features specified in paragraph 18A of schedule 24 have been affixed on the packaging.</Text>
+                    </P3para>
+                  </P3>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P3para>
+            </P3>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of Schedule 17 (exemption for sale, supply or administration by certain persons)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/18/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/18" id="regulation-18">
+          <Pnumber>18</Pnumber>
+          <P1para>
+            <Text>In Schedule 17&#x2014;</Text>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/18/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/18/a" id="regulation-18-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>in the table in Part 2<FootnoteRef Ref="f00017"/> (exemption from the restriction on supply of prescription only medicines), in item 4a, in the words in column 2, omit &#x201C;for parenteral administration&#x201D;; and</Text>
+              </P3para>
+            </P3>
+            <P3 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/18/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/18/b" id="regulation-18-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>in the table in Part 5<FootnoteRef Ref="f00018"/> (exemptions from the restrictions in regulations 220 and 221), in item 7a, for the words in column 2 substitute &#x201C;A medicinal product containing naloxone hydrochloride but no other substance that is classified as a product available only on prescription or as a product available only from a pharmacy.&#x201D;.</Text>
+              </P3para>
+            </P3>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of Schedule 24 (packaging information requirements)</Title>
+        <P1 DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/regulation/19/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/regulation/19" id="regulation-19">
+          <Pnumber>19</Pnumber>
+          <P1para>
+            <Text>In schedule 24, after paragraph 18 insert&#x2014;</Text>
+            <BlockAmendment TargetSubClass="unknown" Context="unknown" TargetClass="unknown" Format="double">
+              <P1>
+                <Pnumber PuncAfter=".">18A</Pnumber>
+                <P1para>
+                  <Text>In the case of a medicinal product, other than a radiopharmaceutical, that is required by Article 54a of the 2001 Directive to bear safety features&#x2014;</Text>
+                  <P3>
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>a unique identifier which complies with the technical specifications set out in Chapter <Acronym Expansion="2">II</Acronym> of Commission Regulation 2016/161; and</Text>
+                    </P3para>
+                  </P3>
+                  <P3>
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>an anti-tampering device allowing verification of whether the packaging of the medicinal product has been tampered with.</Text>
+                    </P3para>
+                  </P3>
+                </P1para>
+              </P1>
+            </BlockAmendment>
+            <AppendText>.</AppendText>
+          </P1para>
+        </P1>
+      </P1group>
+      <SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/signature/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/signature">
+        <Signatory>
+          <Signee>
+            <PersonName>Matt Hancock</PersonName>
+            <JobTitle>Secretary of State,</JobTitle>
+            <Department>Department of Health and Social Care</Department>
+            <DateSigned Date="2019-01-09">
+              <DateText>9th January 2019</DateText>
+            </DateSigned>
+          </Signee>
+          <Signee>
+            <PersonName>Richard Pengelly</PersonName>
+            <JobTitle>A senior official of the Department of Health in Northern Ireland</JobTitle>
+            <DateSigned>
+              <DateText>14th January 2019</DateText>
+            </DateSigned>
+          </Signee>
+        </Signatory>
+      </SignedSection>
+    </Body>
+    <ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/2019/62/note/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/62/note">
+      <Title>EXPLANATORY NOTE</Title>
+      <Comment>
+        <Para>
+          <Text>(This note is not part of the Regulations)</Text>
+        </Para>
+      </Comment>
+      <P>
+        <Text>These Regulations amend the Human Medicines Regulations 2012 (&#x201C;the 2012 Regulations&#x201D;) in order to implement&#x2014;</Text>
+        <UnorderedList Decoration="dash">
+          <ListItem>
+            <Para>
+              <Text>points 8, 9, 11 and 12 of Article 1 of <Citation URI="http://www.legislation.gov.uk/european/directive/2011/0062" id="c00003" Class="EuropeanUnionDirective" Year="2011" Number="0062">Directive 2011/62/EU</Citation> of the European Parliament and of the Council of 8 June 2011 amending <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0083" id="c00004" Class="EuropeanUnionDirective" Year="2001" Number="0083">Directive 2001/83/EC</Citation> on the Community code relating to medicinal products for human use, as regards the prevention of the entry into the legal supply chain of falsified medicinal products (&#x201C;<Citation URI="http://www.legislation.gov.uk/european/directive/2011/0062" id="c00005" Class="EuropeanUnionDirective" Year="2011" Number="0062">Directive 2011/62/EU</Citation>&#x201D;);</Text>
+            </Para>
+          </ListItem>
+          <ListItem>
+            <Para>
+              <Text>Commission Delegated Regulation (EU) 2016/161 of 2 October 2015 supplementing <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0083" id="c00006" Class="EuropeanUnionDirective" Year="2001" Number="0083">Directive 2001/83/EC</Citation> of the European Parliament and of the Council by laying down detailed rules for the safety features appearing on the packaging of medicinal products for human use (&#x201C;the Delegated Regulation&#x201D;).</Text>
+            </Para>
+          </ListItem>
+        </UnorderedList>
+      </P>
+      <P>
+        <Text>These regulations further amend the 2012 Regulations in order to widen the type of products containing naloxone hydrochloride that drug treatment services are able to supply for the purpose of saving life in an emergency and to introduce serious shortage protocols.</Text>
+      </P>
+      <P>
+        <Text>Regulations 3 to 8, 10 and 12 to 15 amend the 2012 Regulations in order to ensure that the provisions of the Delegated Regulation are enforceable in the United Kingdom.</Text>
+      </P>
+      <P>
+        <Text>Regulations 11, 17 and 19 amend the 2012 Regulations in order to transpose the changes made to Directive 2001/83 by points 8, 9, 11 and 12 of Article 1 of <Citation URI="http://www.legislation.gov.uk/european/directive/2011/0062" id="c00007" Class="EuropeanUnionDirective" Year="2011" Number="0062">Directive 2011/62/EU</Citation>.</Text>
+      </P>
+      <P>
+        <Text>Regulation 9 amends the 2012 Regulations in order to provide for the sale or supply of prescription only medicines by retail pharmacy businesses under a severe shortage protocol issued by the Ministers. The Ministers will have powers to issue such protocols where, in their opinion, the United Kingdom or part of the United Kingdom is experiencing or may experience a severe shortage of particular prescription only medicines. The protocols will allow for substitution, in restricted circumstances, of a different quantity of a prescription only medicine, or a different prescription only medicine, to that ordered by the prescriber.</Text>
+      </P>
+      <P>
+        <Text>Regulation 16 amends regulation 346 of the 2012 Regulations so that the new provisions are subject to review by the Secretary of State.</Text>
+      </P>
+      <P>
+        <Text>Regulation 18 amends Schedule 17 of the 2012 Regulations in order to allow naloxone hydrochloride that is for non-parenteral administration to be supplied by drug treatment services for the purpose of saving life in an emergency.</Text>
+      </P>
+      <P>
+        <Text>A transposition note is published with the Explanatory Memorandum alongside the instrument on <ExternalLink Title="UK Legislation website" URI="http://www.legislation.gov.uk" id="i00000">www.legislation.gov.uk</ExternalLink>. Copies may also be obtained from the Department of Health and Social Care, 2E14 Quarry House, Leeds, LS2 7UE.</Text>
+      </P>
+    </ExplanatoryNotes>
+  </Secondary>
+  <Footnotes>
+    <Footnote id="f00001">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1972/68" id="c00008" Class="UnitedKingdomPublicGeneralAct" Year="1972" Number="0068">1972 c.68</Citation>. Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/51" id="c00009" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0051">2006 (c.51)</Citation> and section 3(3) of and Part 1 of the Schedule to the European Union (Amendment) Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2008/7" id="c00010" Class="UnitedKingdomPublicGeneralAct" Year="2008" Number="0007">2008 (c.7)</Citation>. Section 2(5) was amended by section 41(1) of and Part 1 of Schedule 6 to the Northern Ireland Constitution Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1973/36" id="c00011" Class="UnitedKingdomPublicGeneralAct" Year="1973" Number="0036">1973 (c.36)</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00002">
+      <FootnoteText>
+        <Para>
+          <Text><Emphasis>See </Emphasis><Citation URI="http://www.legislation.gov.uk/id/uksi/1972/1811" id="c00012" Class="UnitedKingdomStatutoryInstrument" Year="1972" Number="1811">S.I. 1972/1811</Citation> which designates the Secretary of State and any department of the Government of Northern Ireland for the purposes of section 2(2) of the European Communities Act 1972 in relation to medicinal products.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00003">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2012/1916" id="c00013" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="1916">S.I. 2012/1916</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00004">
+      <FootnoteText>
+        <Para>
+          <Text>Regulation 8 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/1855" id="c00014" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="1855">S.I. 2013/1855</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/2593" id="c00015" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="2593">2593</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2015/1503" id="c00016" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="1503">2015/1503</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/186" id="c00017" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0186">2016/186</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/190" id="c00018" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0190">190</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/696" id="c00019" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0696">696</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2017/715" id="c00020" Class="UnitedKingdomStatutoryInstrument" Year="2017" Number="0715">2017/715</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2018/199" id="c00021" Class="UnitedKingdomStatutoryInstrument" Year="2018" Number="0199">2018/199</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00005">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/44" id="c00022" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0044">2000 c.44</Citation>; section 3 was amended by the Regulation and Inspection of Social Care (Wales) Act 2016 (2016 anaw.2) and the Health and Social Care Act 2008 (<Citation URI="http://www.legislation.gov.uk/id/ukpga/2008/14" id="c00023" Class="UnitedKingdomPublicGeneralAct" Year="2008" Number="0014">2008 c.14</Citation>).</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00006">
+      <FootnoteText>
+        <Para>
+          <Text>2016 anaw.2; paragraph 1 of Schedule 1 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2018/195" id="c00024" Class="UnitedKingdomStatutoryInstrument" Year="2018" Number="0195">S.I. 2018/195</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00007">
+      <FootnoteText>
+        <Para>
+          <Text>
+            <Citation URI="http://www.legislation.gov.uk/id/asp/2010/8" id="c00025" Class="ScottishAct" Year="2010" Number="0008">2010 asp. 8</Citation>
+          </Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00008">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/nisi/2003/431" id="c00026" Class="NorthernIrelandOrderInCouncil" Year="2003" Number="0431" AlternativeNumber="N.I 9">S.I. 2003/431 (N.I. 9)</Citation>; article 11 was amended by the Health and Social Care (Reform) Act (Northern Ireland) 2009 (<Citation URI="http://www.legislation.gov.uk/id/ukpga/2009/1" id="c00027" Class="UnitedKingdomPublicGeneralAct" Year="2009" Number="0001">2009 c.1</Citation>)</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00009">
+      <FootnoteText>
+        <Para>
+          <Text><Acronym Expansion="Official Journal">OJ</Acronym> no. L 32, 9.2.2016, p. 1</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00010">
+      <FootnoteText>
+        <Para>
+          <Text>Regulation 36 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/1855" id="c00028" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="1855">S.I. 2013/1855</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00011">
+      <FootnoteText>
+        <Para>
+          <Text>Regulation 39 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2015/354" id="c00029" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="0354">S.I. 2015/354</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00012">
+      <FootnoteText>
+        <Para>
+          <Text>Regulation 42 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/1855" id="c00030" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="1855">S.I. 2013/1855</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00013">
+      <FootnoteText>
+        <Para>
+          <Text>Regulation 43 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/1855" id="c00031" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="1855">S.I. 2013/1855</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/186" id="c00032" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0186">2016/186</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00014">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1987/43" id="c00033" Class="UnitedKingdomPublicGeneralAct" Year="1987" Number="0043">1987 c.43</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00015">
+      <FootnoteText>
+        <Para>
+          <Text>Regulation 327 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/1855" id="c00034" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="1855">S.I. 2013/1855</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00016">
+      <FootnoteText>
+        <Para>
+          <Text>Regulation 346 was substituted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/1855" id="c00035" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="1855">S.I. 2013/1855</Citation> and then amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/2593" id="c00036" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="2593">S.I. 2013/2593</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2014/490" id="c00037" Class="UnitedKingdomStatutoryInstrument" Year="2014" Number="0490">2014/490</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2014/1878" id="c00038" Class="UnitedKingdomStatutoryInstrument" Year="2014" Number="1878">1878</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2015/323" id="c00039" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="0323">2015/323</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2015/903" id="c00040" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="0903">903</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2015/1503" id="c00041" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="1503">1503</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/186" id="c00042" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0186">2016/186</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2017/715" id="c00043" Class="UnitedKingdomStatutoryInstrument" Year="2017" Number="0715">2017/715</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2018/199" id="c00044" Class="UnitedKingdomStatutoryInstrument" Year="2018" Number="0199">2018/199</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00017">
+      <FootnoteText>
+        <Para>
+          <Text>Part 2 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2014/490" id="c00045" Class="UnitedKingdomStatutoryInstrument" Year="2014" Number="0490">S.I. 2014/490</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2014/1878" id="c00046" Class="UnitedKingdomStatutoryInstrument" Year="2014" Number="1878">1878</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2015/1503" id="c00047" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="1503">2015/1503</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/186" id="c00048" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0186">2016/186</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00018">
+      <FootnoteText>
+        <Para>
+          <Text>Part 5 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2015/1503" id="c00049" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="1503">S.I. 2015/1503</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/186" id="c00050" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0186">2016/186</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2018/199" id="c00051" Class="UnitedKingdomStatutoryInstrument" Year="2018" Number="0199">2018/199</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+  </Footnotes>
+</Legislation>
